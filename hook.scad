@@ -1,6 +1,6 @@
 use <modules/pin.scad>;
 hook_radius = 2.5;
-$fn=16;
+$fn=32;
 hook_curve_radius = 5;
 hook_angle=45;
 module hook_back() {
