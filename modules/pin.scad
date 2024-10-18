@@ -1,6 +1,6 @@
 hole_radius=2.5;
 pin_radius=2.3;
-pin_base_length= 5.6;
+pin_base_length= 6.0;
 pin_slit_radius=1;
 pin_slit_depth=1;
 pin_curve_inner_radius = pin_base_length;
